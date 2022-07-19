@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: James Lule's Resume
 ---
 # Brigham Young
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
@@ -18,19 +18,21 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 `2025-2027`
 __LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
+- Got my certificate in Accounting and Finance
+- I was on the Deans List with a GPA of 3.75 
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Majored in Computer Software Engineering
+- 3.2 Major GPA
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
+`May 2021  - September 2021`
 __Pacific Northwest National Lab__, Richland, WA
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
