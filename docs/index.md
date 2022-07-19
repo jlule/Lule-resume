@@ -2,7 +2,7 @@
 layout: cv
 title: James Lule's Resume
 ---
-# Brigham Young
+# Brigham Youngs
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
